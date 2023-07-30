@@ -1,0 +1,74 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'poppins',sans-serif;
+}
+body {
+    background: #2a2b2b;
+}
+.total-container {
+    margin: 5% 5% 10% 5%;
+    border: 2px dotted white;
+    
+}
+.parallax-1 {
+    background: url("godavari.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.parallax-2 {
+    background: url("krishna.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.parallax-3 {
+    background: url("ganga.jpeg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.parallax-4 {
+    background: url("thungabadra.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.parallax-inner {
+    padding: 10% 0;
+
+}
+h1 {
+    font-size: 3em;
+    text-align: center;
+    color: aqua;
+    letter-spacing: 3px;
+    text-shadow: 3px 3px 5px black;
+   
+}
+h2 {
+    font-size: 1.5em;
+    color: white;
+    text-align: center;
+    font-weight: 200;
+    letter-spacing: 2px;
+    margin: 20px 0 10px;
+}
+p {
+    color: rgb(255, 255, 255, .4);
+    margin: 15px;
+    text-align: justify;
+    line-height: 30px;
+}
+.copyright-part {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    margin-top: 20px;
+}
